@@ -1,5 +1,4 @@
 absl-py==2.2.2
-alembic @ file:///home/conda/feedstock_root/build_artifacts/alembic_1694690212886/work
 altair @ file:///home/conda/feedstock_root/build_artifacts/altair_1696364485230/work
 annotated-types==0.7.0
 anyio @ file:///home/conda/feedstock_root/build_artifacts/anyio_1693488585952/work
