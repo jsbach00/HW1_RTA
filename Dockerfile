@@ -11,4 +11,4 @@ COPY PD1.py .
 ENV FLASK_APP=PD1
 
 EXPOSE 5000
-CMD ["python", "pd1.py"]
+CMD ["python", "PD1.py"]
